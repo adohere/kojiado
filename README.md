@@ -1,11 +1,8 @@
 ## 👨‍💻 About Me! 
 
-Detail-oriented, creative, and adept at problem-solving, I'm passionate about crafting captivating digital experiences.
-
-- **Full Name**: Adnan Brkić
-- **Age**: 23
-- **Location**: Banovići, Bosnia and Herzegovina
-- **Education**: Studying Information Technologies at Burch University
+As a detail-oriented UI/UX Designer & Front-End Developer, I am committed to crafting flawless digital experiences. <br>
+My code reflects clarity and efficiency, always aiming for perfection.<br>
+Each project is a stepping stone to greater achievements, pushing boundaries and embracing challenges.
 
 ## 💡 Skills:
 
