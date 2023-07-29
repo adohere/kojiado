@@ -9,13 +9,11 @@ Detail-oriented, creative, and adept at problem-solving, I'm passionate about cr
 
 ## 💡 Skills:
 
-Here's the magic that I wield in the digital world:
-- `Pixel Perfectionist:` Creating pixel-perfect UI designs that mesmerize users and elevate their experience.
-- `React Sorcery:` Harnessing the power of React to craft enchanting front-end spells with both Typescript and JavaScript.
-- `Dynamic Styling:` Weaving wonders with CSS, from the enchanting elegance of Tailwind to the classic charm of Bootstrap (when needed).
-- `Full Stack Wizardry:` Uniting the realms of front-end and back-end with Next.js, and conjuring backend magic with Node.js, PHP, and MySQL.
-- `Responsive Enchantments:` Ensuring my creations adapt seamlessly to any screen size for an immersive experience on all devices.
-- `User Experience Alchemy:` Transforming user journeys into delightful, intuitive, and unforgettable adventures.
+#### Core: <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,bootstrap,tailwind,nextjs,nodejs,figma,xd,ps,ai)](https://skillicons.dev)
+
+#### Familiar: <br>
+[![My Skills](https://skillicons.dev/icons?i=jquery,mysql,php,java,c,cpp,py,ruby,selenium,prisma)](https://skillicons.dev)
 
 ## 📈 Statistics:
 
