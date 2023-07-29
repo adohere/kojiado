@@ -1,6 +1,11 @@
 ## 👨‍💻 About Me! 
 
-I'm Adnan Brkić, your friendly neighborhood UI/UX Designer and Front-End Developer hailing from the beautiful land of Bosnia and Herzegovina. With a wealth of experience at the age of 23, I bring a serious passion for crafting exceptional digital experiences to the table.
+Detail-oriented, creative, and adept at problem-solving, I'm passionate about crafting captivating digital experiences.
+
+- **Full Name**: Adnan Brkić
+- **Age**: 23
+- **Location**: Banovići, Bosnia and Herzegovina
+- **Education**: Studying Information Technologies at Burch University
 
 ## 💡 Skills:
 
