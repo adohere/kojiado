@@ -7,10 +7,10 @@ Each project is a stepping stone to greater achievements, pushing boundaries and
 ## 💡 Skills:
 
 #### Core: <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,bootstrap,tailwind,nextjs,nodejs,figma,xd,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,bootstrap,tailwind,nextjs,figma,xd,ps,ai)](https://skillicons.dev)
 
 #### Familiar: <br>
-[![My Skills](https://skillicons.dev/icons?i=jquery,mysql,php,java,c,cpp,py,ruby,selenium,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,jquery,mysql,php,java,c,cpp,py,ruby,selenium,prisma)](https://skillicons.dev)
 
 ## 📈 Statistics:
 
