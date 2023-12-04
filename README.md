@@ -22,7 +22,6 @@ Connect with me and explore more of my work:
 
 - [Personal Website](https://kojiado.com)
 - [LinkedIn](https://www.linkedin.com/in/kojiado)
-- [Instagram](https://www.instagram.com/kojiadocom)
 - [Behance](https://behance.com/kojiado)
 - [Dribbble](https://dribbble.com/kojiado)
 
